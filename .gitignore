@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+main.o
+qr_scanner
+qr_scanner.o
+qr_scanner.dSYM/Contents/Info.plist
+qr_scanner.dSYM/Contents/Resources/Relocations/aarch64/qr_scanner.yml
