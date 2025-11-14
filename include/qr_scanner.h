@@ -11,6 +11,7 @@
 typedef struct {
     CvCapture* capture;
     IplImage* grey_frame;
+    zbar_image_scanner_t *scanner;
 } qr_scanner_t;
 
 
